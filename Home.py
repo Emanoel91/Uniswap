@@ -21,7 +21,7 @@ st.title('Battle of the Exchanges: Uniswap vs Centralized Exchanges - Analyzing 
 # Content
 # c1, c2 = st.columns(2)
 
-# c1.image(Image.open('uniswap.png')
+c1.image(Image.open('Images/uniswap3.png'))
 
 st.subheader('📃 Introduction')
 
