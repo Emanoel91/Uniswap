@@ -13,9 +13,9 @@ st.set_page_config(page_title='Transactions - Near Megadashboard', page_icon=':c
 st.title('🔴 Transactions')
 
 # Cover
-c1 , c2 = st.columns(2)
+#c1 , c2 = st.columns(2)
 
-c1.image(Image.open('Images/transactions.JPG'))
+#c1.image(Image.open('Images/transactions.JPG'))
 
 with c2: 
         st.subheader('📄 ***List of contents***')
