@@ -19,7 +19,7 @@ st.set_page_config(page_title='Near Megadashboard', page_icon=near , layout='wid
 st.title('Near Ⓜegadashboard')
 
 # Content
-c1, c2 = st.columns(2)
+# c1, c2 = st.columns(2)
 
 # c1.image(Image.open('uniswap.png')
 
