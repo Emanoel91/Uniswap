@@ -19,7 +19,7 @@ st.set_page_config(page_title='Uniswap', page_icon=uni , layout='wide')
 st.title('Battle of the Exchanges: Uniswap vs Centralized Exchanges - Analyzing Performance')
 
 # Content
-# c1, c2 = st.columns(2)
+c1, c2 = st.columns(2)
 
 c1.image(Image.open('Images/uniswap3.png'))
 
