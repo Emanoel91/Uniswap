@@ -12,7 +12,7 @@ import streamlit as st
 import PIL
 from PIL import Image
 
-near = PIL.Image.open('near_chain_2.png')
+near = PIL.Image.open('uniswap.png')
 
 # Title
 st.set_page_config(page_title='Near Megadashboard', page_icon=near , layout='wide')
