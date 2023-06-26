@@ -12,11 +12,11 @@ import streamlit as st
 import PIL
 from PIL import Image
 
-near = PIL.Image.open('uniswap.png')
+near = PIL.Image.open('uniswap2.png')
 
 # Title
 st.set_page_config(page_title='Near Megadashboard', page_icon=near , layout='wide')
-st.title('Near Ⓜegadashboard')
+st.title('Battle of the Exchanges: Uniswap vs Centralized Exchanges - Analyzing Performance')
 
 # Content
 # c1, c2 = st.columns(2)
