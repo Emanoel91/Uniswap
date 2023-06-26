@@ -21,7 +21,7 @@ st.title('Near Ⓜegadashboard')
 # Content
 c1, c2 = st.columns(2)
 
-#c1.image(Image.open('uniswap.png')
+# c1.image(Image.open('uniswap.png')
 
 st.subheader('📃 Introduction')
 
